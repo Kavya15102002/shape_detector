@@ -6,7 +6,7 @@ This project implements a complete geometric shape detection system capable of i
 This submission implements the `detectShapes()` method using only browser-native
 APIs and basic math, as required.
 
-## How it works (high level)
+## How it works
 
 **Pipeline**
 
